@@ -7,8 +7,7 @@ We know that starting a new position comes with lot of excitment/anxiety/uncerta
 2. How to navigate the cafeteria
 3. How to look for housing in DC
 4. What to wear
-5. Useful terms + how DECDI is divided
-6. What to do in DC
+5. What to do in DC
 
 We hope it is helpful! 
 
