@@ -9,7 +9,8 @@ We know that starting a new position comes with lot of excitment/anxiety/uncerta
 4. What to wear (dress_code)
 5. What to do in DC (dc_recommendations)
 6. How to use the gym (gym)
-7. Overall recommendations (other_notes)
+7. Useful terms used at the World Bank (terms)
+8. Overall recommendations (other_notes)
 
 
 We hope it is helpful! 
