@@ -12,4 +12,4 @@ We know that starting a new position comes with lot of excitment/anxiety/uncerta
 
 We hope it is helpful! 
 
-Obs: This repository was created after surveying interns in the Summer 2025 cicle. 
+Obs: This repository was created in the Summer 2025 cicle. 
