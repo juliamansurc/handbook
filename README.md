@@ -1,7 +1,7 @@
 # Handbook - DIME Incoming Interns
 Welcome, new interns! 
 
-We know that starting a new position comes with lot of excitment/anxiety/uncertainty. Our hope is that this repository serves as a quick introduction to how it is to work at Development Impact (DIME). Here, we've gathered information on topics that might be useful for someone coming to DC. The content emcompasses:
+We know that starting a new position comes with lot of excitment/anxiety/uncertainty. Our hope is that this repository serves as a quick introduction to how it is to work at Development Impact (DECDI). Here, we've gathered information on topics that might be useful for someone coming to DC. The content emcompasses:
 
 1. What to do on your first day in person
 2. How to navigate the cafeteria
